@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:nemanjan00/service-cache.git",
   "author": "nemanjan00 <nemanjan00@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "promise-cached": "^0.0.4"
+  }
 }

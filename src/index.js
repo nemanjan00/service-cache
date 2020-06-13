@@ -9,7 +9,7 @@ const handlerFactory = (options) => {
 	const handler = {
 		get: function(that, prop) {
 			if(prop.endsWith("Cached")) {
-				const name = name.split("Cached");
+				const name = prop.split("Cached");
 
 				// Delete empty string on the end
 				name.pop();

@@ -1,0 +1,9 @@
+{
+  "name": "service-cache",
+  "version": "0.0.0",
+  "description": "Proxy for caching service responses",
+  "main": "index.js",
+  "repository": "git@github.com:nemanjan00/service-cache.git",
+  "author": "nemanjan00 <nemanjan00@gmail.com>",
+  "license": "MIT"
+}
